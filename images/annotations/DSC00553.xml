@@ -1,0 +1,29 @@
+<annotation>
+    <folder>images</folder>
+    <filename>DSC00553.JPG</filename>
+    <size>
+        <width>1920</width>
+        <height>1920</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>c-2-f-d-r</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>693.771057</xmin>
+            <ymin>183.056046</ymin>
+            <xmax>902.388733</xmax>
+            <ymax>403.252655</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>c-2-h-o-p</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>870.424316</xmin>
+            <ymin>1030.699219</ymin>
+            <xmax>970.541992</xmax>
+            <ymax>1082.125244</ymax>
+        </bndbox>
+    </object>
+</annotation>
