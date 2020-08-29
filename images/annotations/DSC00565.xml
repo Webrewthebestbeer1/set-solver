@@ -6,14 +6,4 @@
         <height>1920</height>
         <depth>3</depth>
     </size>
-    <object>
-        <name>c-2-h-o-r</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>1110.280396</xmin>
-            <ymin>1167.712769</ymin>
-            <xmax>1224.409668</xmax>
-            <ymax>1240.599243</ymax>
-        </bndbox>
-    </object>
 </annotation>
