@@ -1,0 +1,19 @@
+<annotation>
+    <folder>images</folder>
+    <filename>DSC00658.JPG</filename>
+    <size>
+        <width>1920</width>
+        <height>1920</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>c-3-u-d-r</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>473.989380</xmin>
+            <ymin>191.127380</ymin>
+            <xmax>1504.640991</xmax>
+            <ymax>1730.325195</ymax>
+        </bndbox>
+    </object>
+</annotation>
