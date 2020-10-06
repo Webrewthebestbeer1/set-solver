@@ -15,6 +15,6 @@ rectlabel
 * orego: top left
 
 darknet
-* notation (relative): class, xcentre, ycentre, width, height
+* notation (relative): class-index, xcentre, ycentre, width, height
 * oreo: top left
 

@@ -4,6 +4,9 @@ const parser = require('fast-xml-parser');
 
 const inputPath = path.join(__dirname, '../images/annotations');
 const outputPath = path.join(__dirname, '../images/annotations/txt');
+const labelsPath = path.join(__dirname, '../set.names');
+
+const labelMap = fs.readFileSync(labelsPath, 'utf8').split('\n');
 
 fs.readdir(inputPath, (error, files) => {
   if (error) {
@@ -30,12 +33,17 @@ fs.readdir(inputPath, (error, files) => {
           const { xmin, ymin, xmax, ymax } = object.bndbox;
           const { name } = object;
         
+          const className = labelMap.indexOf(name);
+          if (!className) {
+            console.error('Cannot find className for class', name);
+            return;
+          }
           const xcenter = (xmin + xmax) / 2 / imgWidth;
           const ycenter = (ymin + ymax) / 2 / imgHeight;
           const width = (xmax - xmin) / imgWidth;
           const height = (ymax - ymin) / imgWidth;
         
-          const result = `${name} ${xcenter} ${ycenter} ${width} ${height}`;
+          const result = `${className} ${xcenter} ${ycenter} ${width} ${height}`;
           str += `${result}\n`;
         });
       fs.writeFile(`${outputPath}/${fileName.replace('.xml', '.txt')}`, str, 'utf8', () => {});
