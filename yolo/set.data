@@ -1,0 +1,5 @@
+classes = 81
+train = ../set-solver/yolo/train.txt
+valid = ../set-solver/yolo/valid.txt
+names = ../set-solver/yolo/set.names
+backup = ./backup
