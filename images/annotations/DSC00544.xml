@@ -7,7 +7,7 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>c-3-u-d-r</name>
+        <name>c-3-u-d-g</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1046</xmin>
@@ -17,7 +17,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-2-u-s-r</name>
+        <name>c-2-u-d-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>714</xmin>
@@ -37,7 +37,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-3-u-d-r</name>
+        <name>c-3-u-d-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>183</xmin>
@@ -47,7 +47,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-2-h-o-r</name>
+        <name>c-2-h-o-g</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1230</xmin>
@@ -57,7 +57,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-2-u-s-r</name>
+        <name>c-2-u-d-r</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>920</xmin>
@@ -67,7 +67,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-h-o-r</name>
+        <name>c-1-h-o-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>670</xmin>
@@ -77,7 +77,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-f-o-r</name>
+        <name>c-1-f-o-g</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>498</xmin>
@@ -107,7 +107,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-3-u-s-r</name>
+        <name>c-3-u-d-r</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1136</xmin>
@@ -117,7 +117,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-f-o-r</name>
+        <name>c-1-f-o-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>700</xmin>
@@ -127,7 +127,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-f-s-r</name>
+        <name>c-1-f-d-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>305</xmin>
@@ -137,7 +137,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-u-s-r</name>
+        <name>c-1-u-d-r</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>581</xmin>
@@ -147,7 +147,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-3-h-s-r</name>
+        <name>c-3-h-d-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1348</xmin>
@@ -157,7 +157,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-2-h-o-r</name>
+        <name>c-2-h-o-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1068</xmin>
@@ -167,7 +167,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-f-d-r</name>
+        <name>c-1-f-d-g</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>807</xmin>
@@ -177,7 +177,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-u-o-r</name>
+        <name>c-1-u-o-p</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1243</xmin>
@@ -187,7 +187,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-1-h-o-r</name>
+        <name>c-1-h-o-g</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>664</xmin>
@@ -197,7 +197,7 @@
         </bndbox>
     </object>
     <object>
-        <name>c-2-f-s-r</name>
+        <name>c-2-f-d-r</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>966</xmin>

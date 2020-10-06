@@ -7,203 +7,203 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>c-2-f-d-r</name>
+        <name>c-2-f-d-g</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>878.439026</xmin>
-            <ymin>1376.811401</ymin>
-            <xmax>1309.148560</xmax>
-            <ymax>1812.169434</ymax>
+            <xmin>878</xmin>
+            <ymin>1377</ymin>
+            <xmax>1309</xmax>
+            <ymax>1812</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-1-h-s-r</name>
+        <name>c-1-h-d-p</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>575.134766</xmin>
-            <ymin>1328.628906</ymin>
-            <xmax>1005.995117</xmax>
-            <ymax>1723.347656</ymax>
+            <xmin>575</xmin>
+            <ymin>1329</ymin>
+            <xmax>1006</xmax>
+            <ymax>1723</ymax>
         </bndbox>
     </object>
     <object>
         <name>c-2-h-o-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>231.587387</xmin>
-            <ymin>1339.576050</ymin>
-            <xmax>630.370117</xmax>
-            <ymax>1682.076782</ymax>
+            <xmin>232</xmin>
+            <ymin>1340</ymin>
+            <xmax>630</xmax>
+            <ymax>1682</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-h-s-r</name>
+        <name>c-3-h-d-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1106.518311</xmin>
-            <ymin>1130.194580</ymin>
-            <xmax>1525.969604</xmax>
-            <ymax>1468.424072</ymax>
+            <xmin>1107</xmin>
+            <ymin>1130</ymin>
+            <xmax>1526</xmax>
+            <ymax>1468</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-h-o-r</name>
+        <name>c-3-h-o-p</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>770.108643</xmin>
-            <ymin>1042.523315</ymin>
-            <xmax>1165.977783</xmax>
-            <ymax>1427.134155</ymax>
+            <xmin>770</xmin>
+            <ymin>1043</ymin>
+            <xmax>1166</xmax>
+            <ymax>1427</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-h-s-r</name>
+        <name>c-3-h-d-g</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1366.552490</xmin>
-            <ymin>958.595337</ymin>
-            <xmax>1772.699341</xmax>
-            <ymax>1284.519897</ymax>
+            <xmin>1367</xmin>
+            <ymin>959</ymin>
+            <xmax>1773</xmax>
+            <ymax>1285</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-2-h-d-r</name>
+        <name>c-2-h-d-g</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>560.236877</xmin>
-            <ymin>887.981201</ymin>
-            <xmax>940.350098</xmax>
-            <ymax>1263.898438</ymax>
+            <xmin>560</xmin>
+            <ymin>888</ymin>
+            <xmax>940</xmax>
+            <ymax>1264</ymax>
         </bndbox>
     </object>
     <object>
         <name>c-3-f-d-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>203.460526</xmin>
-            <ymin>929.327576</ymin>
-            <xmax>601.969849</xmax>
-            <ymax>1292.977783</ymax>
+            <xmin>203</xmin>
+            <ymin>929</ymin>
+            <xmax>602</xmax>
+            <ymax>1293</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-2-u-o-r</name>
+        <name>c-2-u-o-p</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1266.340698</xmin>
-            <ymin>657.516357</ymin>
-            <xmax>1626.002319</xmax>
-            <ymax>996.905518</ymax>
+            <xmin>1266</xmin>
+            <ymin>658</ymin>
+            <xmax>1626</xmax>
+            <ymax>997</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-h-o-r</name>
+        <name>c-3-h-o-g</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1061.918823</xmin>
-            <ymin>738.662842</ymin>
-            <xmax>1335.851562</xmax>
-            <ymax>1073.695801</ymax>
+            <xmin>1062</xmin>
+            <ymin>739</ymin>
+            <xmax>1336</xmax>
+            <ymax>1074</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-u-d-r</name>
+        <name>c-3-u-d-g</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>256.159485</xmin>
-            <ymin>707.518616</ymin>
-            <xmax>636.301025</xmax>
-            <ymax>1030.161865</ymax>
+            <xmin>256</xmin>
+            <ymin>708</ymin>
+            <xmax>636</xmax>
+            <ymax>1030</ymax>
         </bndbox>
     </object>
     <object>
         <name>c-1-h-d-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>649.426208</xmin>
-            <ymin>618.696960</ymin>
-            <xmax>914.344727</xmax>
-            <ymax>927.319092</ymax>
+            <xmin>649</xmin>
+            <ymin>619</ymin>
+            <xmax>914</xmax>
+            <ymax>927</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-u-s-r</name>
+        <name>c-3-u-d-p</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>888.301758</xmin>
-            <ymin>568.949341</ymin>
-            <xmax>1173.445557</xmax>
-            <ymax>886.962891</ymax>
+            <xmin>888</xmin>
+            <ymin>569</ymin>
+            <xmax>1173</xmax>
+            <ymax>887</ymax>
         </bndbox>
     </object>
     <object>
         <name>c-2-u-o-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1249.085449</xmin>
-            <ymin>459.412048</ymin>
-            <xmax>1591.510864</xmax>
-            <ymax>667.746826</ymax>
+            <xmin>1249</xmin>
+            <ymin>459</ymin>
+            <xmax>1592</xmax>
+            <ymax>668</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-f-s-r</name>
+        <name>c-3-f-d-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>367.459961</xmin>
-            <ymin>432.661804</ymin>
-            <xmax>690.706604</xmax>
-            <ymax>737.154114</ymax>
+            <xmin>367</xmin>
+            <ymin>433</ymin>
+            <xmax>691</xmax>
+            <ymax>737</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-2-h-s-r</name>
+        <name>c-2-h-d-g</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1210.699829</xmin>
-            <ymin>249.134811</ymin>
-            <xmax>1496.899658</xmax>
-            <ymax>528.215820</ymax>
+            <xmin>1211</xmin>
+            <ymin>249</ymin>
+            <xmax>1497</xmax>
+            <ymax>528</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-3-u-s-r</name>
+        <name>c-3-u-d-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>895.967590</xmin>
-            <ymin>326.339905</ymin>
-            <xmax>1137.568115</xmax>
-            <ymax>591.880798</ymax>
+            <xmin>896</xmin>
+            <ymin>326</ymin>
+            <xmax>1138</xmax>
+            <ymax>592</ymax>
         </bndbox>
     </object>
     <object>
         <name>c-2-f-o-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>648.143921</xmin>
-            <ymin>313.044922</ymin>
-            <xmax>889.056152</xmax>
-            <ymax>577.218628</ymax>
+            <xmin>648</xmin>
+            <ymin>313</ymin>
+            <xmax>889</xmax>
+            <ymax>577</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-2-h-s-r</name>
+        <name>c-2-h-d-r</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1048.312744</xmin>
-            <ymin>101.325111</ymin>
-            <xmax>1320.642578</xmax>
-            <ymax>358.653198</ymax>
+            <xmin>1048</xmin>
+            <ymin>101</ymin>
+            <xmax>1321</xmax>
+            <ymax>359</ymax>
         </bndbox>
     </object>
     <object>
-        <name>c-2-f-s-r</name>
+        <name>c-2-f-d-g</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>778.113892</xmin>
-            <ymin>85.239090</ymin>
-            <xmax>1096.344238</xmax>
-            <ymax>339.936523</ymax>
+            <xmin>778</xmin>
+            <ymin>85</ymin>
+            <xmax>1096</xmax>
+            <ymax>340</ymax>
         </bndbox>
     </object>
 </annotation>
