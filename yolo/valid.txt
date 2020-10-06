@@ -1,0 +1,14 @@
+../set-solver/yolo/yolo_images/DSC00486.JPG
+../set-solver/yolo/yolo_images/DSC00496.JPG
+../set-solver/yolo/yolo_images/DSC00526.JPG
+../set-solver/yolo/yolo_images/DSC00556.JPG
+../set-solver/yolo/yolo_images/DSC00583.JPG
+../set-solver/yolo/yolo_images/DSC00613.JPG
+../set-solver/yolo/yolo_images/DSC00635.JPG
+../set-solver/yolo/yolo_images/DSC00645.JPG
+../set-solver/yolo/yolo_images/DSC00655.JPG
+../set-solver/yolo/yolo_images/DSC00665.JPG
+../set-solver/yolo/yolo_images/DSC00675.JPG
+../set-solver/yolo/yolo_images/DSC00685.JPG
+../set-solver/yolo/yolo_images/DSC00695.JPG
+../set-solver/yolo/yolo_images/DSC00705.JPG
