@@ -30,4 +30,15 @@ darknet
 
 5. test with ./darknet detect cfg/yolov2.cfg backup/<weights> <some-set-image>
 
+### this, its the plan
+
+* configure cloud server for training
+* mvp object detector with darknet/yolo
+* try implement cnn with mobile net
+* make the app
+* win set-game
+
+
+
+
 
